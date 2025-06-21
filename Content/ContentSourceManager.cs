@@ -10,14 +10,14 @@ namespace BetterArtisanGoodIcons.Content
     internal class ContentSourceManager
     {
         /// <summary>Map an <see cref="ArtisanGood"/> to its source name to make content pack debugging easier.</summary>
-        private static readonly IDictionary<ArtisanGood, List<string>> artisanGoodToSourceType = new Dictionary<ArtisanGood, List<string>>
+        private static readonly IDictionary<ArtisanGood, string> artisanGoodToSourceType = new Dictionary<ArtisanGood, string>
         {
-            {ArtisanGood.Honey, new List<string> { "Flowers" } },
-            {ArtisanGood.Jelly, new List<string> { "Fruits" } },
-            {ArtisanGood.Wine, new List<string> { "Fruits" } },
-            {ArtisanGood.Juice, new List<string> { "Vegetables" } },
-            {ArtisanGood.Pickles, new List<string> { "Vegetables", "Mushrooms" } },
-            {ArtisanGood.DriedMushrooms, new List<string> { "Mushrooms" } }
+            {ArtisanGood.Honey, "Flowers/Forages" },
+            {ArtisanGood.Jelly, "Fruits/Forages" },
+            {ArtisanGood.Wine, "Fruits/Forages" },
+            {ArtisanGood.Juice, "Vegetables/Forages" },
+            {ArtisanGood.Pickles, "Vegetables/Forages/Mushrooms" },
+            {ArtisanGood.DriedMushrooms, "Mushrooms" }
         };
 
         /// <summary>Gets all valid <see cref="ArtisanGoodTextureProvider"/>s that can be used to get artisan good icons.</summary>
