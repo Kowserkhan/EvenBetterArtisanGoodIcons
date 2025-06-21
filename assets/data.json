@@ -3,6 +3,7 @@
   "Vegetables": [ "Amaranth", "Artichoke", "Beet", "Bok Choy", "Cauliflower", "Corn", "Eggplant", "Fiddlehead Fern", "Garlic", "Green Bean", "Hops", "Kale", "Parsnip", "Potato", "Pumpkin", "Radish", "Red Cabbage", "Tomato", "Wheat", "Yam", "Ginger", "Taro Root", "Tea Leaves", "Unmilled Rice", "Carrot", "Summer Squash", "Broccoli" ],
   "Flowers": [ "Blue Jazz", "Fairy Rose", "Poppy", "Summer Spangle", "Tulip", "Wild" ],
   "Mushrooms": [ "Common Mushroom", "Morel", "Chanterelle", "Purple Mushroom", "Magma Cap" ],
+  "Forages": ["Wild Horseradish", "Daffodil", "leek", "Dandelion", "Morel", "Common Mushroom", "Chanterelle", "Purple Mushroom", "Winter root", "Crystal Fruit", "Snow Yam", "Crocus", "Hazelnut", "Blackberry", "Salmonberry"],
   "Honey": "assets/honey.png",
   "Jelly": "assets/jelly.png",
   "Juice": "assets/juice.png",
