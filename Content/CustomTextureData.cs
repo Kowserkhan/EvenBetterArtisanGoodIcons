@@ -9,6 +9,7 @@ namespace BetterArtisanGoodIcons.Content
         public List<string> Vegetables { get; set; } = null;
         public List<string> Flowers { get; set; } = null;
         public List<string> Mushrooms { get; set; } = null;
+        public List<string> Forages { get; set; } = null;
 
 
         public string Jelly { get; set; } = null;
