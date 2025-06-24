@@ -12,9 +12,9 @@ namespace BetterArtisanGoodIcons.Content
         /// <summary>Map an <see cref="ArtisanGood"/> to its source name to make content pack debugging easier.</summary>
         private static readonly IDictionary<ArtisanGood, string> artisanGoodToSourceType = new Dictionary<ArtisanGood, string>
         {
-            {ArtisanGood.Honey, "Flowers/Forages" },
-            {ArtisanGood.Jelly, "Fruits/Forages" },
-            {ArtisanGood.Wine, "Fruits/Forages" },
+            {ArtisanGood.Honey, "Flowers" },
+            {ArtisanGood.Jelly, "Fruits" },
+            {ArtisanGood.Wine, "Fruits" },
             {ArtisanGood.Juice, "Vegetables/Forages" },
             {ArtisanGood.Pickles, "Vegetables/Forages/Mushrooms" },
             {ArtisanGood.DriedMushrooms, "Mushrooms" }
