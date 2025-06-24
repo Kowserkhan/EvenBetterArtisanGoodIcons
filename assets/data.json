@@ -1,13 +1,14 @@
 ﻿{
   "Fruits": [ "Ancient Fruit", "Apple", "Apricot", "Blackberry", "Blueberry", "Cactus Fruit", "Cherry", "Coconut", "Cranberries", "Crystal Fruit", "Grape", "Hot Pepper", "Melon", "Orange", "Peach", "Pomegranate", "Rhubarb", "Salmonberry", "Spice Berry", "Starfruit", "Strawberry", "Wild Plum", "Banana", "Pineapple", "Mango", "Qi Fruit", "Powdermelon" ],
-  "Vegetables": [ "Amaranth", "Artichoke", "Beet", "Bok Choy", "Cauliflower", "Corn", "Eggplant", "Fiddlehead Fern", "Garlic", "Green Bean", "Hops", "Kale", "Parsnip", "Potato", "Pumpkin", "Radish", "Red Cabbage", "Tomato", "Wheat", "Yam", "Ginger", "Taro Root", "Tea Leaves", "Unmilled Rice", "Carrot", "Summer Squash", "Broccoli" ],
+  "Vegetables": [ "Amaranth", "Artichoke", "Beet", "Bok Choy", "Cauliflower", "Corn", "Eggplant", "Fiddlehead Fern", "Garlic", "Green Bean", "Hops", "Kale", "Parsnip", "Potato", "Pumpkin", "Radish", "Red Cabbage", "Tomato", "Wheat", "Yam", "Ginger", "Taro Root", "Tea Leaves", "Unmilled Rice", "Carrot", "Summer Squash", "Broccoli", "Dandelion", "Leek", "Wild Horseradish", "Hazelnut", "Snow Yam", "Winter Root", "Spring Onion", "Cave Carrot", "Red Mushroom", "Common Mushroom", "Morel", "Chanterelle", "Purple Mushroom", "Magma Cap" ],
   "Flowers": [ "Blue Jazz", "Fairy Rose", "Poppy", "Summer Spangle", "Tulip", "Wild" ],
   "Mushrooms": [ "Common Mushroom", "Morel", "Chanterelle", "Purple Mushroom", "Magma Cap" ],
-  "Forages": ["Wild Horseradish", "Daffodil", "leek", "Dandelion", "Morel", "Common Mushroom", "Chanterelle", "Purple Mushroom", "Winter root", "Crystal Fruit", "Snow Yam", "Crocus", "Hazelnut", "Blackberry", "Salmonberry"],
+  "Forages": ["Dandelion", "Leek", "Wild Horseradish", "Hazelnut", "Snow Yam", "Winter Root", "Spring Onion", "Cave Carrot", "Red Mushroom", "Common Mushroom", "Morel", "Chanterelle", "Purple Mushroom", "Magma Cap"],
   "Honey": "assets/honey.png",
   "Jelly": "assets/jelly.png",
   "Juice": "assets/juice.png",
   "Pickles": "assets/pickles.png",
   "Wine": "assets/wine.png",
-  "DriedMushrooms": "assets/driedMushrooms.png"
+  "DriedMushrooms": "assets/driedMushrooms.png",
+  "ForageSpriteOffset": 27 
 }
