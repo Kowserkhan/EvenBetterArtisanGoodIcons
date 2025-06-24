@@ -35,15 +35,10 @@ namespace BetterArtisanGoodIcons.Content
             
             yield return new Tuple<string, List<string>, ArtisanGood>(TextureData.Pickles,
                 TextureData.Forages, ArtisanGood.Pickles);
-
-            yield return new Tuple<string, List<string>, ArtisanGood>(TextureData.Wine,
-                TextureData.Forages, ArtisanGood.Wine);
             
             yield return new Tuple<string, List<string>, ArtisanGood>(TextureData.Juice,
                 TextureData.Forages, ArtisanGood.Juice);
             
-            yield return new Tuple<string, List<string>, ArtisanGood>(TextureData.Jelly,
-                TextureData.Forages, ArtisanGood.Jelly);
         }
     }
 }
